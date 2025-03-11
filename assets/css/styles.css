@@ -48,6 +48,8 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-color: #EAEAEA;
+  
 }
 
 h1, h2, p {
@@ -110,7 +112,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color: #EAEAEA;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -481,6 +483,12 @@ img {
     padding: 10rem 0 2rem;
   }
   .home__img {
-    width: 450px;
+    width: 300px;
+    height: 450px;
+    border-radius: 50px;
+    border-radius: ;
+            
+           
+            
   }
 }
